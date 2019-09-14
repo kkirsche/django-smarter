@@ -1,7 +1,7 @@
 django-smarter
 ==============
 
-Another approach for declarative style generic views for Django. I beleive, it's a bit smarter :)
+Another approach for declarative style generic views for Django. I believe, it's a bit smarter :)
 
 Overview
 --------
